@@ -2,7 +2,7 @@
 Quick Reference
 
 http://www.science.smith.edu/~jcardell/Courses/EGR328/Readings/XBeeCookbook.pdf (Unofficial XBee Cookbook)
-ftp://ftp1.digi.com/support/documentation/90000989_a.pdf (API Operation Pag 56)
+http://www.mouser.com/ds/2/111/90000982_A-230816.pdf (API Operation Pag 56)
 http://www.digi.com/support/kbase/kbaseresultdetl?id=2184 (What is API Mode?)
 http://www.digi.com/support/kbase/kbaseresultdetl?id=3220 (Changing Channels with XBee)
 https://support.metageek.com/hc/en-us/articles/203845040-ZigBee-and-WiFi-Coexistence
