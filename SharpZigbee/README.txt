@@ -1,4 +1,5 @@
-﻿
+For usage sample see SharpHive in https://github.com/samuelventura/sandbox/
+
 Quick Reference
 
 http://www.science.smith.edu/~jcardell/Courses/EGR328/Readings/XBeeCookbook.pdf (Unofficial XBee Cookbook)
@@ -8,8 +9,8 @@ http://www.digi.com/support/kbase/kbaseresultdetl?id=3220 (Changing Channels wit
 https://support.metageek.com/hc/en-us/articles/203845040-ZigBee-and-WiFi-Coexistence
 
 Series
-- Series1 support both AT and API modes on same firmware
-- Series2 require firmware change to support either AT or API mode.
+- Series1 supports both AT and API modes on same firmware
+- Series2 requires firmware change to support either AT or API mode.
 
 Modes
 - AT or transparente mode.
